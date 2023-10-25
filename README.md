@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/gabriel-kotani/](https://www.linkedin.com/in/gabriel-kotani/)
 
-- ⚡ Projects:
+- ⚡ Projects
 - [GAN](https://github.com/Gab314/GAN-style-transfer)
 - [Explainable AI](https://github.com/Gab314/xai-saliency-maps)
 - [DL Projects](https://github.com/Gab314/python_projects)

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Kotani</h1>
-<h3 align="center">Machine Learning Engineer, and Innovator.</h3>
+<h3 align="center">I'm a Machine Learning Engineer, with 5 years of experience in NLP.</h3>
 
 - 🔭 I’m currently working with **MLOps**
 

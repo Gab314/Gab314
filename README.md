@@ -11,12 +11,14 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/gabriel-kotani/](https://www.linkedin.com/in/gabriel-kotani/)
 
-- <h3 align="left">⚡ Computer Vision Projects:</h3>
+<h3 align="left">⚡ Computer Vision Projects:</h3>
+
 - [GAN](https://github.com/Gab314/GAN-style-transfer)
 - [Explainable AI](https://github.com/Gab314/xai-saliency-maps)
 - [DL Projects](https://github.com/Gab314/python_projects)
 
 <h3 align="left">⚡ NLP Projects:</h3>
+
 - [NLP](https://github.com/Gab314/python_projects/tree/main/NLP_AIRBNB)
 - [Sentimental Analysis](https://github.com/Gab314/python_projects/tree/main/NLP_COVID)
 - [Social Network Analysis](https://github.com/Gab314/python_projects/tree/main/SNA_BEHANCE)

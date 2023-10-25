@@ -15,6 +15,9 @@
 - [GAN](https://github.com/Gab314/GAN-style-transfer)
 - [Explainable AI](https://github.com/Gab314/xai-saliency-maps)
 - [DL Projects](https://github.com/Gab314/python_projects)
+- [NLP](https://github.com/Gab314/python_projects/tree/main/NLP_AIRBNB)
+- [Sentimental Analysis](https://github.com/Gab314/python_projects/tree/main/NLP_COVID)
+- [Social Network Analysis](https://github.com/Gab314/python_projects/tree/main/SNA_BEHANCE)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
